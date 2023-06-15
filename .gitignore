@@ -1,2 +1,4 @@
 go.sum
 di/wire_gen.go
+.DS_Store
+*/.
